@@ -47,7 +47,7 @@ func load_game():
 
 Save your project and test it. Blow up a few mines and collect a few coins. Press escape to access the menu, and then save your game. Press the load button and watch what happens. Repeat a few times.
 
-Now, look at the files again in the Windows Explorer or the System Finder. You should see a new file in the 01 Config folder: settings.cfg. Open that file with some kind of text editor (you could use VS Code) and take a look at it. What would happen if you were to edit this file directly?
+Now, look at the files again in the Windows Explorer or the System Finder. You should see a new file in the 01 Config folder: settings.cfg. Open that file with some kind of text editor and take a look at it. What would happen if you were to edit this file directly?
 
 In the file, change both the score and lives values to 1000. Save your changes and close the file. Go back to Godot and run your project; load your game. What happened?
 
